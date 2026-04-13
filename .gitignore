@@ -6,12 +6,11 @@ dev_env
 
 
 # Documents
-*.pdf
-pdfs/
 metadata_source/
 pdf_outputs/
 parsed_documents/
 document_source/
+benchmark_data/
 
 #logging
 logs/
