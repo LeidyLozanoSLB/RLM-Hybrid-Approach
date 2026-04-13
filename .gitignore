@@ -11,6 +11,8 @@ pdf_outputs/
 parsed_documents/
 document_source/
 benchmark_data/
+benchmark_ui/data/
 
 #logging
 logs/
+eng.traineddata
