@@ -1,8 +1,17 @@
 # Virtual environments
 venv/
 env/
+.env
+dev_env
+
 
 # Documents
 *.pdf
 pdfs/
 metadata_source/
+pdf_outputs/
+parsed_documents/
+document_source/
+
+#logging
+logs/
